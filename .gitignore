@@ -1,0 +1,58 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== .NET build =====
+bin/
+obj/
+
+# ===== Logs =====
+*.log
+app.log
+
+# ===== Environment secrets =====
+.env
+
+# ===== User-specific files =====
+*.user
+*.suo
+*.rsuser
+*.userprefs
+
+# ===== Rider / VS Code =====
+.idea/
+.vscode/
+
+# ===== Visual Studio =====
+.vs/
+
+# ===== NuGet =====
+*.nupkg
+*.snupkg
+
+# ===== Test results =====
+TestResults/
+
+# ===== Coverage =====
+coverage/
+coverage.*
+
+# ===== Build artifacts =====
+*.dll
+*.exe
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+
+# ===== Temporary =====
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===== Protobuf generated (optional) =====
+# Uncomment if you regenerate them automatically
+# Generated/
+
+# ===== Crash dumps =====
+*.dmp
